@@ -6,7 +6,7 @@ router.get('/', function (req, res, next) {
   const items = [
     {
       plu_cd: '123',
-      name: 'みかん',
+      name: 'aaaaaaaaaa',
       price: 120
     },
     {
@@ -16,7 +16,7 @@ router.get('/', function (req, res, next) {
     },
     {
       plu_cd: '345',
-      name: 'バナナ',
+      name: 'dddddddd',
       price: 160
     }
   ]
